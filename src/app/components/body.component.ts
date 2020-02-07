@@ -10,4 +10,5 @@ export class BodyComponent {
         text: 'Un gran poder requiere una gran responsabilidad',
         author: 'Ben Parker'
     }
+    characters : string[] = [ 'Spiderman', 'Batman', 'Superman', 'Wonder Woman' ];
 }
